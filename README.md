@@ -1,5 +1,5 @@
 # Desktop-notifier
-IS 3020 Project
+IS 3020 Project 2024
 
 This reminder application/software would be used by students and everyday users who have a computer, these reminders don’t necessarily need to be deadlines or assignments but could also be a mental reminder of motivations, quotes, and such that one would want to be reminded of randomly or daily when opening their computer and having it show up on there desktop. 
 
