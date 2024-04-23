@@ -1,4 +1,5 @@
-
+pip install schedule
+import schedule
 import time
 from plyer import notification
 
