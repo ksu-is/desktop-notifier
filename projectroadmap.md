@@ -1,12 +1,12 @@
 # Desktop Notifier Roadmap
 
 ## Sprint 1:
-- [x] Joined KSU-IS Class on GitHub
-- [x] Create a repository on Github for project
-- [x] Make a description of my project under the ReadME file
-- [x] Create this project roadmap on GitHub
+- [✓ Joined KSU-IS Class on GitHub
+- [✓ Create a repository on Github for project
+- [✓ Make a description of my project under the ReadME file
+- [✓ Create this project roadmap on GitHub
 - [x] Clone or find an existing code 
-- [x] Turn in the Sprint #1 quiz on D2L
+- [✓ Turn in the Sprint #1 quiz on D2L
 
 ## Sprint 2
 - [x] Make small updates and add commit messages with them in your repository through GitHub Desktop
