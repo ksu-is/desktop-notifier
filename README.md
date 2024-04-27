@@ -3,7 +3,7 @@ IS 3020 Project 2024
 
 
 
-This application will be used as a notification to remind students, employees and many more people on task that they need to focus on or work on.
+This application will be used as a pop up notification to remind students, employees and many more people on tasks or give motivation.
 Not only will this application be used as a notification for tasks but also a mental health notifier of motivation or quotes to improve mental health. 
 
 
