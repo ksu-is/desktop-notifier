@@ -1,1 +1,17 @@
 
+import time
+print("------ Add A Reminder: ------")
+print("Welcome to the reminder program")
+reminderTitle = input("What would you like to title your reminder?\n")
+reminderMessage= input("What would you like to be reminded of?\n")
+schedule = (input("Would you like to schedule your reminder? (Yes or No)\n"))
+answer = schedule.upper()
+if answer == "YES":
+   scheduledTime = float(input("Please enter how long from now you would like to be reminded(in minutes)\n"))
+   time.sleep(scheduledTime*60)
+   notification.notify(title= reminderTitle, message= reminderMessage, app_icon = "heart.ico", timeout= 10, toast=False)
+elif answer == "NO":
+    notification.notify(title= reminderTitle, message= reminderMessage, app_icon = None,timeout= 10, toast=False)
+else:
+     print("Sorry, that is not an option. Please try again")
+time.sleep(60*60)
