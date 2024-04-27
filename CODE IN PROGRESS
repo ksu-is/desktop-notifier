@@ -1,5 +1,4 @@
-pip install schedule
-import schedule
+pip install plyer
 import time
 from plyer import notification
 
@@ -7,11 +6,17 @@ def send_notification(title, message):
     notification.notify(
         title=title,
         message=message,
-        timeout=10  # Display duration in seconds
+        timeout=10  
     )
+title = "You have a reminder!"
 
+message= 'Stay on task'
+
+notification.notify(title= title,
+                    message= message,
+                    timeout= 15,
+                    toast= False)
+time.sleep(60*60)
 if __name__ == "__main__":
-    title = "Desktop Notifier"
-    message = "This is a test notification."
-
     send_notification(title, message)
+print("\U0001F606") 
